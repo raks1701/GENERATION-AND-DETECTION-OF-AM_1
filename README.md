@@ -81,6 +81,7 @@ Note: Keep all the switch faults in off position
 
 ## MODEL GRAPH:
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/7bc77926-9c2a-42c6-994b-6c67433b11d2" />
+
 ## PROGRAM:
 ```
 	am = 8.7;
